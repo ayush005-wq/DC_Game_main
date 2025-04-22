@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Pt"],
+    "answer": "Au",
+    "hint": "It's derived from the Latin word 'aurum'"
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945",
+    "hint": "It was the same year the United Nations was founded"
+  },
+  {
+    "id": 3,
+    "category": "Geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean",
+    "hint": "It covers more than 30% of the Earth's surface"
+  },
+  {
+    "id": 4,
+    "category": "Entertainment",
+    "question": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+    "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "answer": "Robert Downey Jr.",
+    "hint": "He's known for his role in 'Sherlock Holmes' as well"
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Football", "Basketball", "Tennis", "Swimming"],
+    "answer": "Basketball",
+    "hint": "It involves putting the ball directly through the hoop with one's hands"
+  },
+  {
+    "id": 6,
+    "category": "Technology",
+    "question": "Which company developed the Python programming language?",
+    "options": ["Microsoft", "Apple", "Google", "None of these"],
+    "answer": "None of these",
+    "hint": "It was created by Guido van Rossum"
+  },
+  {
+    "id": 7,
+    "category": "Literature",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "Virginia Woolf"],
+    "answer": "Jane Austen",
+    "hint": "She lived during the early 19th century"
+  },
+  {
+    "id": 8,
+    "category": "Mathematics",
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": ["3.14", "3.15", "3.16", "3.17"],
+    "answer": "3.14",
+    "hint": "It's approximately 22/7"
+  },
+  {
+    "id": 9,
+    "category": "Food & Drink",
+    "question": "Which country is known as the origin of pizza?",
+    "options": ["USA", "France", "Italy", "Greece"],
+    "answer": "Italy",
+    "hint": "The traditional Neapolitan pizza comes from Naples"
+  },
+  {
+    "id": 10,
+    "category": "Science",
+    "question": "What is the smallest unit of life?",
+    "options": ["Atom", "Cell", "Molecule", "Tissue"],
+    "answer": "Cell",
+    "hint": "It was first observed by Robert Hooke in 1665"
+  }
+]
